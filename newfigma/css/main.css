@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url(./layout/navbar.css);
+@import url(./layout/section.css);
+@import url(./layout/artical.css);
+@import url(./layout/footer.css);
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1440px;
+    font-family:'Noto Sans', sans-serif;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+button:hover{
+    color: black;
+}

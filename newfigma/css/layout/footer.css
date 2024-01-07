@@ -1,0 +1,39 @@
+.footer {
+    margin: 50px 100px;
+    position: relative;
+    padding-bottom: 50px;
+}
+.footer_left {
+}
+.footer_left .icon {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.footer_left p{
+    color: #151411;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text {
+    width: 505px;
+font-size: 18px;
+font-weight: 500;
+}
+.footer_right {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 18px;
+    font-weight: 500;
+}
+table{
+    width: 487px;
+}
+th{
+    font-size: 20px!important;
+}
+table,th,td{
+    /* border: 1px solid grey; */
+    text-align: left;
+}
